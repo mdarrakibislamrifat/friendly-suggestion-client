@@ -30,7 +30,7 @@ const SingleCard = ({ card }) => {
         <img
           src={image}
           alt="Shoes"
-          className="rounded-xl"
+          className="rounded-xl h-96"
         />
       </figure>
       <div className="card-body items-center text-center">
