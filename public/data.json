@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "brandName": "Mirpur",
+    "image": "https://i.ibb.co/895nF1F/Screenshot-2023-11-11-182034.png"
+  },
+  {
+    "id": 2,
+    "brandName": "Mohammadpur",
+    "image": "https://i.ibb.co/BtqJw0m/Screenshot-2023-11-11-182241.png"
+  },
+  {
+    "id": 3,
+    "brandName": "Dhanmondi",
+    "image": "https://i.ibb.co/tZX3n4h/Screenshot-2023-11-11-182440.png"
+  },
+  {
+    "id": 4,
+    "brandName": "Gulshan",
+    "image": "https://i.ibb.co/vwRpjgt/Screenshot-2023-11-11-182605.png"
+  },
+  {
+    "id": 5,
+    "brandName": "Bashundhara",
+    "image": "https://i.ibb.co/gTHkcgd/Screenshot-2023-11-11-183038.png"
+  },
+  {
+    "id": 6,
+    "brandName": "Agargaon",
+    "image": "https://i.ibb.co/q15kjY4/Screenshot-2023-11-11-183214.png"
+  }
+]
