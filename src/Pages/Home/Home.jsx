@@ -20,31 +20,27 @@ const Home = () => {
 
       {/* new arival phone */}
       <h2 className="text-center text-3xl font-bold underline">
-        New Arrival Phones
+        Historic Place
       </h2>
       <div className="grid grid-cols-1 lg:grid-cols-2">
         <div class="relative flex  flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
           <div class="relative mx-4 mt-4 h-96 overflow-hidden rounded-xl bg-white bg-clip-border text-gray-700">
             <img
-              src="https://i.ibb.co/vPbnf9P/apple-iphone-15-pro-max-1.jpg"
+              src="https://i.ibb.co/8zjBzVB/hatirjhil.webp"
               class=" w-full object-cover"
             />
           </div>
           <div class="p-6">
             <div class="mb-2 flex items-center justify-between">
               <p class="block font-sans text-base font-medium leading-relaxed text-blue-gray-900 antialiased">
-                iPhone 15 Pro Max
+                Hatirjheel
               </p>
               <p class="block font-sans text-base font-medium leading-relaxed text-blue-gray-900 antialiased">
                 $95.00
               </p>
             </div>
             <p class="block font-sans text-sm font-normal leading-normal text-gray-700 antialiased opacity-75">
-              You still get a 6.7-inch OLED display with a 2796 x 1290
-              resolution and a 120Hz variable refresh rate. Brightness levels
-              are also the same, delivering 1,000 nits for typical max
-              brightness, 1,600 nits for viewing HDR content, and up to 2,000
-              nits for peak outdoor brightness.
+            The wetlands' name, Hatirjheel, comes from the fact that the elephants of Dhaka's Pilkhana used to bathe there. The Elephant Road and Hatirpool were used to transport the elephants to the marshes in Hatirjheel, which is, now a recreational site, easing traffic congestion for the citizens
             </p>
           </div>
           <div class="p-6 pt-0">
@@ -52,7 +48,7 @@ const Home = () => {
               class="block w-full select-none rounded-lg bg-blue-gray-900/10 py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-blue-gray-900 transition-all hover:scale-105 focus:scale-105 focus:opacity-[0.85] active:scale-100 active:opacity-[0.85] disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
               type="button"
             >
-              Add to Cart
+              go to visit
             </button>
           </div>
         </div>
@@ -61,25 +57,21 @@ const Home = () => {
         <div class="relative flex  flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
           <div class="relative mx-4 mt-4 h-96 overflow-hidden rounded-xl bg-white bg-clip-border text-gray-700">
             <img
-              src="https://i.ibb.co/PMJ5GVv/google-pixel-8-pro-1.jpg"
+              src="https://i.ibb.co/cbDgGQf/palacio-cor-de-rosa.jpg"
               class=" w-full object-cover"
             />
           </div>
           <div class="p-6">
             <div class="mb-2 flex items-center justify-between">
               <p class="block font-sans text-base font-medium leading-relaxed text-blue-gray-900 antialiased">
-                Google Pixel 8 Pro
+                Ahsan Manjil
               </p>
               <p class="block font-sans text-base font-medium leading-relaxed text-blue-gray-900 antialiased">
                 $75.00
               </p>
             </div>
             <p class="block font-sans text-sm font-normal leading-normal text-gray-700 antialiased opacity-75">
-              Fully upgraded cameras and never-before-seen editing. Polished
-              aluminum frame and matte back glass. The power and brains behind
-              Pixel 8 Pro. The new Google Tensor G3 chip is custom-designed with
-              Google AI for cutting-edge photo and video features and smarter
-              ways to help throughout the day.
+            Ahsan Manzil is one of the most significant architectural monuments of Bangladesh. The building structure was established on a raised platform of 1 meter, the two-storied palace measures 125.4 m by 28.75 m. The height of the first floor is 5 meters and the height of the first floor is 5.8 meters.
             </p>
           </div>
           <div class="p-6 pt-0">
@@ -87,7 +79,7 @@ const Home = () => {
               class="block w-full select-none rounded-lg bg-blue-gray-900/10 py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-blue-gray-900 transition-all hover:scale-105 focus:scale-105 focus:opacity-[0.85] active:scale-100 active:opacity-[0.85] disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
               type="button"
             >
-              Add to Cart
+              Go To Visit
             </button>
           </div>
         </div>
@@ -104,10 +96,7 @@ const Home = () => {
             Here&#x27;s what our customers said
           </h2>
           <p class="max-w-2xl  text-lg leading-normal  lg:text-xl xl:text-xl ">
-            A customer review is an evaluation of a product or service made by
-            someone who has purchased and used, or had experience with, a
-            product or service. Customer reviews are a form of customer feedback
-            on electronic commerce and online shopping sites.
+          Your friendly location suggestion website stands out as a delightful companion for explorers and adventurers alike. The user-friendly interface makes it easy for visitors to discover hidden gems and popular destinations alike. The thoughtful curation of locations ensures a diverse range of options, catering to various preferences.
           </p>
         </div>
         <div class="container p-6 mx-auto mb-10 xl:px-0">
@@ -115,14 +104,7 @@ const Home = () => {
             <div class="lg:col-span-2 xl:col-auto">
               <div class="flex flex-col justify-between w-full h-full px-6 py-6 bg-gray-100 md:px-14 rounded-2xl md:py-14 dark:bg-trueGray-800">
                 <p>
-                  I recently visited this mobile shop and was pleasantly
-                  surprised by the wide variety of mobile phones they had on
-                  display. The staff was friendly and knowledgeable, assisting
-                  me in finding the perfect phone to suit my needs and budget.
-                  The prices were competitive, and they even had some great
-                  ongoing promotions. The only reason I'm not giving it a 5-star
-                  rating is because the store was a bit crowded and could use a
-                  bit more organization. Overall, a good experience!
+                I stumbled upon friendly suggestion while searching for a platform to share and receive friendly suggestions. The interface is so user-friendly, making it a breeze to navigate and submit my ideas. I love the positive and supportive community here. The suggestions I received were not only helpful but also encouraging. This site has truly made a positive impact on my decision-making process. Kudos to the team behind friendly suggestion!
                 </p>
                 <div class="flex items-center mt-8 space-x-3">
                   <div class="flex-shrink-0 overflow-hidden rounded-full w-14 h-14">
@@ -144,26 +126,18 @@ const Home = () => {
             <div class="">
               <div class="flex flex-col justify-between w-full h-full bg-gray-100 px-6 py-6 bg-gray-100md:px-14 rounded-2xl md:py-14 dark:bg-trueGray-800">
                 <p>
-                  I had a disappointing experience at this mobile shop. The
-                  staff seemed disinterested in assisting customers, and I had
-                  to wait for a considerable amount of time before someone
-                  attended to me. When I finally got assistance, the salesperson
-                  was not very knowledgeable about the products and couldn't
-                  answer my questions. The prices were high compared to other
-                  stores I've visited. The only positive aspect was the store's
-                  location, which was convenient. Overall, I wouldn't recommend
-                  this shop.
+                friendly suggestion is a fantastic space for creative minds seeking inspiration and feedback. I've been using it for a few weeks now, and the diverse range of suggestions I've received has fueled my creativity. The only reason I'm not giving it a full five stars is that I wish there were more categories for suggestions. Nonetheless, the community is welcoming, and the feedback I've received has been constructive. Great job, team!
                 </p>
                 <div class="flex items-center mt-8 space-x-3">
                   <div class="flex-shrink-0 overflow-hidden rounded-full w-14 h-14">
                     <img
                       alt="Avatar"
-                      src="https://i.ibb.co/cv90trg/332704208-704932394672905-5529177286644284178-n-1.jpg"
+                      src="https://i.ibb.co/LCvGkSp/269847802-1316739332130699-3863527174668482195-n.jpg"
                       loading="lazy"
                     />
                   </div>
                   <div>
-                    <div class="text-lg font-medium">Rakib</div>
+                    <div class="text-lg font-medium">Shihab</div>
                     <div class="text-gray-600 dark:text-gray-400">
                       Lead marketer at Website{" "}
                     </div>
@@ -174,28 +148,20 @@ const Home = () => {
             <div class="">
               <div class="flex flex-col justify-between w-full bg-gray-100 h-full px-6 py-6 bg-gray-100md:px-14 rounded-2xl md:py-14 dark:bg-trueGray-800">
                 <p>
-                  I am extremely satisfied with my experience at this mobile
-                  shop. The staff was exceptionally helpful and patient in
-                  guiding me through the various phone options and plans
-                  available. They took the time to understand my requirements
-                  and offered the perfect recommendations. The store was
-                  well-organized and clean, making it easy to browse and compare
-                  products. Additionally, they had some fantastic deals that
-                  made my purchase even more worthwhile. I highly recommend this
-                  mobile shop for anyone looking to buy a new phone!
+                I can't express how grateful I am to have found [Your Website Name]. It's more than just a suggestion platform; it's a supportive community that genuinely cares about helping each other. The personalized suggestions I've received have been invaluable in making important decisions. The positive vibes on this site are contagious, and it's become a go-to place for me whenever I need friendly advice. Thank you, [Your Website Name], for creating such a wonderful online space!
                 </p>
                 <div class="flex items-center mt-8 space-x-3">
                   <div class="flex-shrink-0 overflow-hidden rounded-full w-14 h-14">
                     <img
                       alt="Avatar"
-                      src="https://i.ibb.co/Ct9z2nd/272659629-3334559676866598-6122847521370266447-n.jpg"
+                      src="https://i.ibb.co/xKnyTy0/289778541-3322455734678746-473716568199081736-n.jpg"
                       loading="lazy"
                     />
                   </div>
                   <div>
-                    <div class="text-lg font-medium">Rohan</div>
+                    <div class="text-lg font-medium">Ronok</div>
                     <div class="text-gray-600 dark:text-gray-400">
-                      Co-founder of Mobile company
+                      Co-founder 
                     </div>
                   </div>
                 </div>
